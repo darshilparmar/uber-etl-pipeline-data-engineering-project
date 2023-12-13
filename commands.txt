@@ -1,5 +1,5 @@
 # Install Python and pip 
-sudo apt-get install update
+sudo apt-get update
 
 sudo apt-get install python3-distutils
 
