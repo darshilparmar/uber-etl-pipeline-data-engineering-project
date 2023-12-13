@@ -1,6 +1,6 @@
 CREATE OR REPLACE TABLE `data-with-darshil.uber_data_engineering_yt.tbl_analytics` AS (
 SELECT 
-f.trip_id
+f.trip_id,
 f.VendorID,
 d.tpep_pickup_datetime,
 d.tpep_dropoff_datetime,
